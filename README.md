@@ -7,5 +7,6 @@ En cuanto a los lenguajes de programación, tengo conocimientos en TypeScript, J
 
 Estoy en la búsqueda de un proyecto grande y desafiante que me permita seguir creciendo como desarrollador. En mi perfil de GitHub puedes encontrar algunos de mis proyectos personales y contribuciones a proyectos de código abierto.
 
-¡No dudes en contactarme si quieres saber más sobre mi trabajo o si estás interesado en colaborar en algún proyecto juntos!
+¡No dudes en contactarme si quieres saber más sobre mi trabajo o si estás interesado en colaborar en algún proyecto juntos! </br>
+##Contacto:
 <a href="http://linkedin.com/in/renzo-cervantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com" height="30" width="40" /></a>
