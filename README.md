@@ -1,3 +1,4 @@
+<h1 aling="center">Hola, soy Renzo Cervantes</h1>
 Hola, soy Renzo Cervantes, un desarrollador full stack de Argentina. Recientemente completé mi formación Henry, donde adquirí conocimientos en todas las áreas del desarrollo web.
 
 Mis principales intereses en programación son el front end, aunque últimamente he encontrado una nueva pasión por el desarrollo del lado del servidor. Llevo poco más de un año programando, pero me gusta mantenerme actualizado en las últimas tendencias y tecnologías del mundo de la programación.
